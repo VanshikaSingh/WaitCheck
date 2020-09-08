@@ -4,7 +4,7 @@ as such, the commits history reflects those from the template that has been fork
 
 This is a functioning prototype for our final product, although it is not fully set up to use everything provided by its backend in Firebase, we've included the firebase project API in the code and it is ready to be set up to support **authentication security**, **scalability**, and **data analytics.** 
 
-Firebase project: https://console.firebase.google.com/project/waitcheck-dab76/overview
+
 
 For the purpose of our demo, this prototype shows what our intentions will be with the final product. 
 
